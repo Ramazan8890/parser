@@ -1,0 +1,7 @@
+env/
+__pycache__/
+.idea/
+*.csv/
+test_csv.py
+env_copy/
+env/
